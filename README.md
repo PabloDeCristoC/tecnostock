@@ -81,4 +81,4 @@ Restricciones de integridad: `PRIMARY KEY` autoincremental en cada tabla, `UNIQU
 
 ## Autor
 
-Pablo De Cristo C. — Caso 1, Sistemas de Información.
+Pablo Emanuel De Cristo Cavieres Körn — Caso 1, Sistemas de Información.
