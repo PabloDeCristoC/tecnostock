@@ -2,6 +2,8 @@
 
 Sistema web de inventario para una tienda de accesorios tecnológicos. Permite iniciar sesión, gestionar productos (crear, listar, buscar, editar, desactivar) y registrar movimientos de stock (entradas/salidas) con actualización automática y alertas de stock bajo.
 
+VIDEO DEL SISTEMA: https://www.youtube.com/watch?v=V42jVKSiVsk
+
 ## Tecnologías
 
 - **Frontend:** HTML5, Bootstrap 5, JavaScript
